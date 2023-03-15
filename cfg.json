@@ -1,0 +1,1172 @@
+{
+    "current_profile": "TP",
+    "profiles": {
+        "TP": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "Auto Seelie": {
+                "ElectroSeelie": true,
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoCook": {
+                "QualityField": {
+                    "name": "Delicious",
+                    "value": 0
+                }
+            },
+            "AutoDestroy": {
+                "DestroyDoodads": {
+                    "toggled": false,
+                    "value": null
+                },
+                "DestroyOres": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyPlants": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyShields": {
+                    "toggled": false,
+                    "value": null
+                },
+                "DestroySpecialChests": {
+                    "toggled": false,
+                    "value": null
+                },
+                "DestroySpecialObjects": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 15.0
+            },
+            "AutoFish": {
+                "AutoRecastRod": false,
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoLoot": {
+                "AutoDisablePickupWhenAddItemExceedLimit": {
+                    "toggled": false,
+                    "value": null
+                },
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": null
+                },
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "CustomRange": 40.0,
+                "DelayTime": 250,
+                "DelayTimeFluctuation": 170,
+                "Investigate": true,
+                "Others": true,
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseDelayTimeFluctuation": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "AutoSelectDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "CutsceneUSM": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTreeFarm": {
+                "AttackPerTree": 10
+            },
+            "ChestTeleport": {
+                "FilterBGM": true,
+                "FilterBookPage": true,
+                "FilterInvestigates": true,
+                "FilterQuestInt": true
+            },
+            "CustomTeleports": {
+                "Auto": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DelayTime": 15,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "ESP": {
+                "DrawDistance": true,
+                "DrawName": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4279302659,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4278582028,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4278712901,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4278255399,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4278385192,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4278451728,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Search Point": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Collection": {
+                        "Book": {
+                            "color": 4278317306,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Book Page": {
+                            "color": 4278320107,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geo Sigil": {
+                            "color": 4278514171,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Quest Interact": {
+                            "color": 4278378749,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Radiant Spincrystal": {
+                            "color": 4278450935,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Viewpoint": {
+                            "color": 4278319612,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Wooden Crate": {
+                            "color": 4278319612,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Time Trial Challenge": {
+                            "color": 4278453495,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Guide": {
+                        "Dendro Granum": {
+                            "color": 4278446842,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Dendro Rock": {
+                            "color": 4278391038,
+                            "enabled": false,
+                            "hotkey": null
+                        }
+                    },
+                    "Puzzle": {
+                        "Ancient Rime": {
+                            "color": 4278456828,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Bake Danuki": {
+                            "color": 4278519290,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Bloatty Floatty": {
+                            "color": 4278650877,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Cube Devices": {
+                            "color": 4278519290,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Eight Stone Tablets": {
+                            "color": 4278519289,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Electric Conduction": {
+                            "color": 4278453501,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Electro Seelie": {
+                            "color": 4278387706,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Elemental Monument": {
+                            "color": 4278519286,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Everlight Cell": {
+                            "color": 4278387708,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Floating Anemo Slime": {
+                            "color": 4278650876,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Geo Puzzle": {
+                            "color": 4278519290,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Geogranum": {
+                            "color": 4278519292,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Illusion Mural": {
+                            "color": 4278585084,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Large Rock Pile": {
+                            "color": 4278453499,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Light Up Tile Puzzle": {
+                            "color": 4278453500,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Lightning Strike Probe": {
+                            "color": 4278650875,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Lumen Cage": {
+                            "color": 4278519292,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Luminous Seelie": {
+                            "color": 4278585086,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Mist Bubble": {
+                            "color": 4278519290,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Nurseries In The Wilds": {
+                            "color": 4278321917,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Oozing Concretions": {
+                            "color": 4278519292,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Phantasmal Gate": {
+                            "color": 4278650876,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Pirate Helm": {
+                            "color": 4278519294,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Pressure Plate": {
+                            "color": 4278519293,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Primal Ember": {
+                            "color": 4278321917,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Primal Obelisk": {
+                            "color": 4278650874,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Primal Sandglass": {
+                            "color": 4278585084,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Relay Stone": {
+                            "color": 4278650874,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Saghira Machine": {
+                            "color": 4278585082,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Seal Locations": {
+                            "color": 4278585086,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Seelie": {
+                            "color": 4278453495,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Seelie Lamp": {
+                            "color": 4278321914,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Small Rock Pile": {
+                            "color": 4278321914,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Stone Pillar Seal": {
+                            "color": 4278453498,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Storm Barrier": {
+                            "color": 4278650871,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Sumeru Puzzles": {
+                            "color": 4278914042,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Sword Hilt": {
+                            "color": 4278716662,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Temari": {
+                            "color": 4278387709,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "The Withering": {
+                            "color": 4278585087,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Time Trial Challenge Collection": {
+                            "color": 4278650871,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Torch Puzzle": {
+                            "color": 4278650875,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Tri Yana Seeds": {
+                            "color": 4278387707,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Unique Rocks": {
+                            "color": 4278716665,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Warming Seelie": {
+                            "color": 4278585082,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Windmill Mechanism": {
+                            "color": 4278716666,
+                            "enabled": false,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "FontSize": 20,
+                "HideCompleted": true
+            },
+            "General": {
+                "SelectedModule": 3
+            },
+            "GodMode": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "NoFall": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "KillAura": {
+                "AttackDelay": 300,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantDeathMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "OnlyTargeted": false,
+                "RepeatDelay": 2000
+            },
+            "MobVacuum": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "OnlyTarget": false,
+                "Radius": 40.0,
+                "SetCollider": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Speed": 4.0
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "AttackSpeed": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                },
+                "MultiTarget": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "SkipEnhanceAnimation": {
+                "Enabled": true,
+                "ShowLevelUp": false
+            },
+            "VacuumLoot": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "Visuals": {
+                "ChestIndicator": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "EnablePeeking": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "NoFog": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                }
+            }
+        },
+        "default": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "Auto Seelie": {
+                "ElectroSeelie": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoCook": {
+                "QualityField": {
+                    "name": "Delicious",
+                    "value": 0
+                }
+            },
+            "AutoFish": {
+                "AutoRecastRod": false,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "AutoSelectDialog": {
+                    "toggled": false,
+                    "value": null
+                },
+                "CutsceneUSM": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTreeFarm": {
+                "AttackPerTree": 10,
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "ChestTeleport": {
+                "FilterBGM": true,
+                "FilterBookPage": true,
+                "FilterInvestigates": true,
+                "FilterQuestInt": true
+            },
+            "ESP": {
+                "DrawDistance": true,
+                "DrawName": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4279302659,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4278582028,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4278712901,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4278255399,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4278385192,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4278451728,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Search Point": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Collection": {
+                        "Book": {
+                            "color": 4278317306,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Book Page": {
+                            "color": 4278320107,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geo Sigil": {
+                            "color": 4278514171,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Quest Interact": {
+                            "color": 4278378749,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Radiant Spincrystal": {
+                            "color": 4278450935,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Viewpoint": {
+                            "color": 4278319612,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Wooden Crate": {
+                            "color": 4278319612,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Time Trial Challenge": {
+                            "color": 4278453495,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Guide": {
+                        "Dendro Granum": {
+                            "color": 4278446842,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Dendro Rock": {
+                            "color": 4278391038,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Monster": {
+                        "Unusual Hilichurl": {
+                            "color": 4294775552,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Plant": {
+                        "Silk Flower": {
+                            "color": 4292477693,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Puzzle": {
+                        "Ancient Rime": {
+                            "color": 4278456828,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Bake Danuki": {
+                            "color": 4278519290,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Bloatty Floatty": {
+                            "color": 4278650877,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Cube Devices": {
+                            "color": 4278519290,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Eight Stone Tablets": {
+                            "color": 4278519289,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Electric Conduction": {
+                            "color": 4278453501,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Electro Seelie": {
+                            "color": 4278387706,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Elemental Monument": {
+                            "color": 4278519286,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Everlight Cell": {
+                            "color": 4278387708,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Floating Anemo Slime": {
+                            "color": 4278650876,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geo Puzzle": {
+                            "color": 4278519290,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geogranum": {
+                            "color": 4278519292,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Illusion Mural": {
+                            "color": 4278585084,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Large Rock Pile": {
+                            "color": 4278453499,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Light Up Tile Puzzle": {
+                            "color": 4278453500,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Lightning Strike Probe": {
+                            "color": 4278650875,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Lumen Cage": {
+                            "color": 4278519292,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luminous Seelie": {
+                            "color": 4278585086,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Mist Bubble": {
+                            "color": 4278519290,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Nurseries In The Wilds": {
+                            "color": 4278321917,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Oozing Concretions": {
+                            "color": 4278519292,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Phantasmal Gate": {
+                            "color": 4278650876,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Pirate Helm": {
+                            "color": 4278519294,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Pressure Plate": {
+                            "color": 4278519293,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Primal Ember": {
+                            "color": 4278321917,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Primal Obelisk": {
+                            "color": 4278650874,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Primal Sandglass": {
+                            "color": 4278585084,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Relay Stone": {
+                            "color": 4278650874,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Saghira Machine": {
+                            "color": 4278585082,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Seal Locations": {
+                            "color": 4278585086,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Seelie": {
+                            "color": 4278453495,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Seelie Lamp": {
+                            "color": 4278321914,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Small Rock Pile": {
+                            "color": 4278321914,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Stone Pillar Seal": {
+                            "color": 4278453498,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Storm Barrier": {
+                            "color": 4278650871,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Sumeru Puzzles": {
+                            "color": 4278914042,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Sword Hilt": {
+                            "color": 4278716662,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Temari": {
+                            "color": 4278387709,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "The Withering": {
+                            "color": 4278585087,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Time Trial Challenge Collection": {
+                            "color": 4278650871,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Torch Puzzle": {
+                            "color": 4278650875,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Tri Yana Seeds": {
+                            "color": 4278387707,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Unique Rocks": {
+                            "color": 4278716665,
+                            "enabled": false,
+                            "hotkey": null
+                        },
+                        "Warming Seelie": {
+                            "color": 4278585082,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Windmill Mechanism": {
+                            "color": 4278716666,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "FontSize": 20,
+                "HideCompleted": true
+            },
+            "General": {
+                "SelectedModule": 3
+            },
+            "GodMode": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "NoFall": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "MobVacuum": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "SetCollider": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "AttackSpeed": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiTarget": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "SkipEnhanceAnimation": {
+                "Enabled": true,
+                "ShowLevelUp": false
+            },
+            "VacuumLoot": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "Visuals": {
+                "ChestIndicator": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "EnablePeeking": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "NoFog": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                }
+            }
+        }
+    },
+    "shared": {
+        "General": {
+            "Multi-Account": {
+                "AccConfig": {
+                    "accounts": [
+                        [
+                            253628105,
+                            {
+                                "nickName": "原学家",
+                                "userID": 253628105
+                            }
+                        ]
+                    ],
+                    "id2Profiles": [
+                        [
+                            253628105,
+                            "default"
+                        ]
+                    ],
+                    "pseudos": [
+                        [
+                            253628105,
+                            "原学家"
+                        ]
+                    ]
+                }
+            },
+            "WaitDelayInit": {
+                "InitializationDelay": 15000
+            }
+        },
+        "InteractiveMap": {
+            "LastUserID": 253628105,
+            "accounts": {
+                "253628105": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1677348552031,
+                                    "point_id": 3626
+                                },
+                                {
+                                    "complete_timestamp": 1677345477402,
+                                    "point_id": 3644
+                                }
+                            ],
+                            "269": [
+                                {
+                                    "complete_timestamp": 1677176699280,
+                                    "point_id": 31148
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1677182302940,
+                                    "point_id": 2136
+                                },
+                                {
+                                    "complete_timestamp": 1677182145076,
+                                    "point_id": 2141
+                                }
+                            ],
+                            "46": [
+                                {
+                                    "complete_timestamp": 1677184281876,
+                                    "point_id": 14468
+                                }
+                            ]
+                        },
+                        "6": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1677177806210,
+                                    "point_id": 25302
+                                },
+                                {
+                                    "complete_timestamp": 1677178090034,
+                                    "point_id": 25353
+                                },
+                                {
+                                    "complete_timestamp": 1677178078333,
+                                    "point_id": 25394
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "PatternScanner": {
+            "m_CheckSumTimestamp": {
+                "UnityPlayer.dll": 133174964306288311,
+                "UserAssembly.dll": 133174964213837296
+            }
+        }
+    }
+}
